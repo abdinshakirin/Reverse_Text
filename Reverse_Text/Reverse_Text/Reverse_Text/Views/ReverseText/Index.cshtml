@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Reverse_Text.Models.ReverseTextModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="text-center">
+    <form method="post" asp-action="getReverseText">
+
+        <label for="inputText">Enter Text:</label>
+        <input type="text" id="inputText" name="inputText">
+        <input type="submit" value="Submit">
+
+    </form>
+
+    <label id="outputLabel" style="display: @(string.IsNullOrEmpty(ViewBag.Response) ? "none" : "block");">@ViewBag.Response</label>
+
+</div>
+

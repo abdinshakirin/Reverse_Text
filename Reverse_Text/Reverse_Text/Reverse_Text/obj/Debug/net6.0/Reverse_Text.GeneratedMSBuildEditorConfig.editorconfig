@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Reverse_Text
+build_property.RootNamespace = Reverse_Text
+build_property.ProjectDir = E:\System\Reverse_Text\Reverse_Text\Reverse_Text\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\System\Reverse_Text\Reverse_Text\Reverse_Text
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/ReverseText/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZXJzZVRleHRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/ReverseText/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZXJzZVRleHRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/ReverseText/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZXJzZVRleHRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/ReverseText/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZXJzZVRleHRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/ReverseText/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZXJzZVRleHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/System/Reverse_Text/Reverse_Text/Reverse_Text/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ecmvo1qh78
